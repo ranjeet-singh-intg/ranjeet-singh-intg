@@ -1,11 +1,4 @@
-           DO WHAT THE FUCK YOU WANT TO PUBLIC LICENCE
-                   Version 3.1, July 2019
-
-  by Sam Hocevar  <sam@hocevar.net>
-     theiostream  <matoe@matoe.co.cc>
-     dtf          <wtfpl@dtf.wtf>
-
-           DO WHAT THE FUCK YOU WANT TO PUBLIC LICENCE
-  TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
-
-  0. You just DO WHAT THE FUCK YOU WANT TO.
+# This project is libre, and licenced under the terms of the
+# DO WHAT THE FUCK YOU WANT TO PUBLIC LICENCE, version 3.1,
+# as published by dtf on July 2019. See the COPYING file or
+# https://ph.dtf.wtf/w/wtfpl/#version-3-1 for more details.
